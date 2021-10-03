@@ -22,10 +22,13 @@ Hints:
 • Programming in R
 
 o While around the table area, right-click and select “Inspect”. Next, hover on the “table class” element and right-click to “Copy” then select “Copy XPath”
+
 o Paste the <copied_xpath> into the R statement “html_nodes(xpath="<copied_xpath>")
+
 o You may also refer to this video link on YouTube: How to find the XPath to scrape tables in rvest - YouTube
 
 • Programming in Python
 
 o You may use BeautifulSoup
+
 o Alternatively,using Pandas could also work here
